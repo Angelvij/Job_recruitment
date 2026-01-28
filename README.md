@@ -1,4 +1,4 @@
-Job Recruitment Platform
+Job Recruitment Platform <br>
 A dynamic web application built with Django designed to bridge the gap between job seekers and employers. This platform manages the entire hiring workflow, from job posting to application tracking.
 
 💼 Key Features
